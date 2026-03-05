@@ -1,0 +1,7 @@
+{
+  "name": "FaceAttend Pro",
+  "description": "Professional facial recognition attendance system with real-time edge processing and administrative dashboard.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
